@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextViewCustomeSoi">
+        <attr name="text_color" format="enum">
+            <enum name="blueG" value="1"></enum>
+            <enum name="redG" value="2"></enum>
+            <enum name="yellowG" value="3"></enum>
+        </attr>
+    </declare-styleable>
+</resources>
